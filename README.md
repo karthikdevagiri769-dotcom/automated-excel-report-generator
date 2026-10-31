@@ -42,4 +42,4 @@ This project demonstrates how Python can automate repetitive business reporting 
 
 ## Author
 
-Karthik Devagiri
+Kantesh Devagiri
